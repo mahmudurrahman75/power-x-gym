@@ -1,3 +1,23 @@
+# Project Name: Power-x-gym
+## Project Detail:
+**•	Different type of fitness classes for gym lovers.
+•	 Classes are integrated as a slider in homepage.
+•	One can choose membership plan by clicking a selected class.
+•	3 types of membership plans are implemented at pricing page
+•	 After choosing a membership plan one has to fill up a
+•	Membership form by giving required information.
+•	Payment methods are integrated to pay the course price.**
+
+### Tools & Technologies: React JS, Node JS & Express JS as Backend, MongoDB as Database,Bootstrap, Material UI, Firebase Authentication etc.
+
+[Linkedin Link](https://www.linkedin.com/in/md-mahmudur-rahman-8125991ba/)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
